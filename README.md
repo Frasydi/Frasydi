@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Frasydi
+- 👀 I’m interested in Artificial Intelligent
+- 🌱 I’m currently learning Java, C++, and Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 082239437988
